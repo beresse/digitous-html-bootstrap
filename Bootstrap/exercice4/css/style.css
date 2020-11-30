@@ -1,7 +1,6 @@
 img{
-    height: 250px;
+    height: 200px;
     border-radius: 50%;
-
 }
 .gris{
     height: 400px;
@@ -10,6 +9,15 @@ img{
 .text{
     padding: 35px 10px 10px 0px;
 }
-h2{
+.column{
+    justify-content: center;
+}
+.image-et-texte{
     text-align: center;
+    padding: 24% 16% 0% 0%;
+
+}
+.display-4{
+    padding: 10% 0% 0% 0%;
+
 }
