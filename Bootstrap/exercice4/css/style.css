@@ -1,0 +1,15 @@
+img{
+    height: 250px;
+    border-radius: 50%;
+
+}
+.gris{
+    height: 400px;
+    background-color: #e6e8ec;
+}
+.text{
+    padding: 35px 10px 10px 0px;
+}
+h2{
+    text-align: center;
+}
