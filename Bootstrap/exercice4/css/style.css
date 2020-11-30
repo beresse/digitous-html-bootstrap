@@ -1,21 +1,27 @@
-img{
-    height: 200px;
+.jumbotron {
+    padding-left: 16px;
+    padding-right: 48px;
+    padding-top: 64px;
+}
+
+img {
+    max-width: 100%;
     border-radius: 50%;
 }
-.gris{
-    height: 400px;
-    background-color: #e6e8ec;
-}
-.text{
-    padding: 35px 10px 10px 0px;
-}
 
-.image-et-texte{
-    text-align: center;
-    padding: 24% 16% 0% 0%;
+
+.image-et-texte {
+    margin-top: 50px;
 
 }
-.display-4{
+
+.display-4 {
     padding: 10% 0% 0% 0%;
 
+}
+
+.modal-footer {
+    justify-content: flex-start;
+    margin: 0px;
+    padding: 0px;
 }
